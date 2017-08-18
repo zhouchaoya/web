@@ -1,0 +1,6 @@
+Compling [/home/zcy/code/mycode/5_21/chat_system/client/udpClientMain.cpp] to [udpClientMain.o]
+/home/zcy/code/mycode/5_21/chat_system/client/udpClientMain.cpp: In function ‘int main(int, char**)’:
+/home/zcy/code/mycode/5_21/chat_system/client/udpClientMain.cpp:18: 错误：‘class udpclient’没有名为‘initClient’的成员
+/home/zcy/code/mycode/5_21/chat_system/client/udpClientMain.cpp:22: 错误：‘sendData’在此作用域中尚未声明
+/home/zcy/code/mycode/5_21/chat_system/client/udpClientMain.cpp:25: 错误：‘recvData’在此作用域中尚未声明
+make: *** [udpClientMain.o] 错误 1
